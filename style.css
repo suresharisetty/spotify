@@ -1,0 +1,254 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "DM Sans", sans-serif;
+    
+  }
+  .contents{
+    width: 340px;
+    height: 962px;
+    background-color: black;
+    margin-bottom: 20px;
+    color: floralwhite;
+}
+    
+    .logo>img{
+        justify-content: space-evenly;
+        padding-left: 60px;
+        padding-top: 25px;
+    }
+.list{
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    padding-top: 40px;
+    gap: 15px;
+}
+.bg{
+    background-color: aliceblue;
+}
+.lg{
+    background-color: blue;
+    width: 20px;
+    height: 20px;
+}
+.fav{padding-left: 40px;
+    padding-top: 40px;
+    margin-bottom: 50px;
+}
+.fav>ul{
+    list-style: none;
+    font-size:20px;
+
+}
+.fav>ul>li{
+    padding-top: 20px;
+}
+.sideb{
+    width: 1400px;
+    height: 1102px;
+    background-color:;
+    background: linear-gradient(180deg, #222 0%, #1F1F1F 11.64%, #171717 25.66%, #161616 32.94%, #151515 35.98%, #131313 44.89%, #121212 55.22%, #121212 75.34%, #121212 85.45%, rgba(18, 18, 18, 0.00) 100%);
+
+}
+.main{
+    display: flex;
+}
+.upper{
+    display: flex;
+    padding-top: 10px;
+    padding-left: 10px;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.profile{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #121212;
+    border-radius: 50px;
+    color: white;
+    gap:10px;
+}
+h2{
+    color: white;
+    padding-left: 30px;
+    padding-top: 70px;
+}
+.lista{
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    padding-top: 40px;
+    gap: 15px;
+    font-size: 45px;
+    color: white;
+    border-radius: 10px;
+}
+.lga{
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+
+}
+.lga>img{
+    width: 45px;
+}
+.bgb{
+    background-color: #303030;
+    padding: 0px;
+}
+.lgb>img{
+    width:50px ;
+}
+.pl{
+    display: flex;
+    justify-content: space-around;
+}
+.see{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: aliceblue;
+}
+.see>p{
+    padding-right: 15px;
+    padding-top: 30px;
+}
+.images{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+}
+.imga{
+    border-radius: 75px;
+    padding-left: 20px;
+}
+.imagesa{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;}
+
+.last{
+    width:100%;
+    height:112px;
+    background-color:#181818;
+    position: relative;
+    top:-150px;
+}  
+.a{
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+    gap: 10px;
+    padding-left: 10px;
+}  
+.b{
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+    gap: 30px;
+    padding-left: 10px;
+  
+}
+.line{
+    width: 50px;
+    height:4px;
+    background-color: aliceblue;
+}
+.last{
+    display: flex;
+    justify-content: space-around;
+}
+.c{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.green{
+    width: 100%;
+    height: 30px;
+    background-color: green;
+    position:relative;
+    top: -150px;
+}
+.green>p{
+    padding-left: 80%;
+}
+.both{
+    display:flex;
+}    
+.alb{
+    position: relative;
+    top:370px;
+}
+.pop{
+    width: 1300px;
+    height: 405px;
+    background: linear-gradient(180deg, #90AEA7 0%, #000 89.7%);
+}
+.sideba{
+    display: flex;
+}
+.pop{
+    display: flex;
+    color: white;
+    align-items: center;
+
+}
+.middle{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background-color: #000;
+    color: white;
+    padding-left: 15px;
+}
+.ft{
+    display: flex;
+    background-color: #000;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+.fd{
+    
+    display: flex;
+    background-color: #000;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    padding-top: 24px;
+}
+.fda{
+    display: flex;
+    background-color: #000;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+.suresh{
+    display: flex;
+    background-color: #000;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+.end{
+    width: 100%;
+    height: 150px;
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+    justify-content: ;
+}
+.alb>img{
+    width: 350px;
+    height: 230px;
+}
+
+
